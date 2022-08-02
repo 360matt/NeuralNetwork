@@ -1,5 +1,7 @@
 package fr.i360matt.ia;
 
+import java.util.Arrays;
+
 public class NNCache {
 
     private final NeuralNetwork nn;
